@@ -6,7 +6,7 @@ This project is all about uncovering the fascinating world of Indian actors turn
 
 2. Why This Website?
 
-We chose this specific page from Times of India because it offers a rich and timely dataset that isn’t readily available through any public API. In India, celebrity influence in politics is significant—actors like Amitabh Bachchan and Sunny Deol have immense public followings, and their political affiliations could sway elections. This list brings together some of the biggest names in Bollywood who have embraced political life. The page organizes these actors in a way that’s perfect for scraping, with their names in <h2> tags and descriptions in <p> tags.
+We chose this specific page from Times of India because it offers a rich and timely dataset that isn’t readily available through any public API. In India, celebrity influence in politics is significant—actors like Amitabh Bachchan and Sunny Deol have immense public followings, and their political affiliations could sway elections. This list brings together some of the biggest names in Bollywood who have embraced political life. The page organizes these actors in a way that’s perfect for scraping, with their names in h2 tags and descriptions in p tags.
 
 Plus, the idea of merging two big Indian obsessions—movies and politics—makes this data feature especially intriguing. Who wouldn’t want to know more about their favorite actor’s political career?
 
